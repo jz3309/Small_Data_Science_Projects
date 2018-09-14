@@ -1,6 +1,6 @@
 # HW1_jz3309
 Screenshots of my first homework, creating environmental variables and alias.
 
-![image](https://github.com/jz3309/PUI2018_jz3309/raw/master/HW1_jz3309/screenshot1.png)
-![image](https://github.com/jz3309/PUI2018_jz3309/raw/master/HW1_jz3309/screenshot2.png)
+![image](https://github.com/jz3309/PUI2018_jz3309/raw/master/HW1_jz3309/HW1_2_jz3309 _bashprofile.png)
+![image](https://github.com/jz3309/PUI2018_jz3309/raw/master/HW1_jz3309/HW1_2_jz3309_setup env.png)
     

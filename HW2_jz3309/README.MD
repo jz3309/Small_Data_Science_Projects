@@ -13,8 +13,7 @@ After that, I use "ls" to check the files in that folder there is only the HW1. 
 ![image](https://github.com/jz3309/PUI2018_jz3309/blob/master/HW2_jz3309/screenshots/after%20remove.png)
 
 ## Assignment2
-I download the data from nycopendata.com about the results of the SAT test of more than 300 schools. I then read the csv file with pandas.
-Then I plot the data about the average reading score and average writing score. I want to know if there is some correlation between the students writing and reading abilities.
+I download the data from nycopendata.com about the 
 
 ## Assignment3
 

@@ -13,7 +13,8 @@ After that, I use "ls" to check the files in that folder there is only the HW1. 
 ![image](https://github.com/jz3309/PUI2018_jz3309/blob/master/HW2_jz3309/screenshots/after%20remove.png)
 
 ## Assignment2
-I download the data from nycopendata.com about the 
+I download the data from nycopendata.com on water consumption in New York City. Then I read in the data with padas and plot the pandas using the bar chart.
+For the extra credit, I use API to download a json file. The dataset is about the 
 
 ## Assignment3
 

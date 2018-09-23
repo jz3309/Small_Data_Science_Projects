@@ -13,15 +13,18 @@ After that, I use "ls" to check the files in that folder there is only the HW1. 
 ![image](https://github.com/jz3309/PUI2018_jz3309/blob/master/HW2_jz3309/screenshots/after%20remove.png)
 
 ## Assignment2
-I download the data from nycopendata.com on water consumption in New York City. Then I read in the data with padas and plot the pandas using the bar chart.
-For the extra credit, I use API to download a json file. The dataset is about the 
+I download the data from nycopendata.com on water consumption in New York City. Then I read in the data with pandas and plot it using bar chart.
+For the extra credit, I use API to download a json file. The dataset is from 311request. I tranform the formatting of the created dates and then plot to see the number of complaints distribution.
+
+For the first two assignments, I work individually.
 
 ## Assignment3
-
+I write a python script to show the information about the given busline name and its current position.
 
 
 ## Assignment4
+I write another python script to show the information on the next stop location of all busses of a given bus.
 
-
+For the assignment 3 and 4, I did most of them myself. I mainly use google search and stack overflow to see some examples and then try to write it. But I meet a number of errors, I asked the Vaidelhei and my Tandon roomates for help. 
 
 

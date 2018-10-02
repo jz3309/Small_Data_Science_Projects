@@ -6,7 +6,7 @@ In this assignmet, I chose 5 different distributions to demonstrates the LLN and
 I download the July 2016 CitiBike data and try to test if people aged between 20 and 30 are more likely than other age groups to choose biking for commuting. I reducted the data and then split it into different age groups then plot them.
 
 ## Lab4:
-After download the times data for alternative bus line, I calculate the mean and sample size then plug them in the formula. The result is less than 2 sigma of the old mean which I can reject the null hypothesis.
+After download the times data for alternative bus line, I calculate the mean and sample size then plug them in the formula. The result is less than 2 sigma of the old mean, so the propobility of the null hypothesis is under 5%. I can reject the null hypothesis.
 
 
 I finish all the assignments individually but ask others some questions during the process. I lack foundation of python and finish homework help me learn many basic python skills. I will try to pair up with other classmates in next weeks.

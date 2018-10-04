@@ -7,7 +7,7 @@
 
 
 # Assignment2
-| **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| **Picture of test result**
+| **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| **Plot of test result**
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|:-------|
 t-test	| 1,  Grades on interstate highways | ordinal | 1, Vehicular speed| Ratio | same period  |discrete  | Do	speeds under different grades showed obviously differences? | Average speed for the grade 1 = average speed for grade 2 | 0.05 | [Evaluating the impacts of grades on vehicular speeds on interstate highways](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184142#abstract0) | ![image](https://github.com/jz3309/PUI2018_jz3309/blob/master/HW5_jz3309/k-test.PNG)|
   |||||||||

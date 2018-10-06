@@ -1,6 +1,6 @@
 # HW5_jz3309
 # Assignment1
-I fork another classmate's repo and make comments on her citibike study.
+I forked another classmate's repo and make comments on her citibike study.
 
 
 # Assignment2 (Last column is the plots of results)
@@ -19,4 +19,4 @@ I completed the Z and chi-squared test for the "Convicted of a felony after 3 ye
 # Assignment4
 I completed three tests for the citibike data. 
 
-I worked with      for the assignment2 and work individually for other assignments. 
+## I worked with      for the assignment2 and work individually for other assignments. 

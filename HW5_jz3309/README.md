@@ -19,4 +19,4 @@ I completed the Z and chi-squared test for the "Convicted of a felony after 3 ye
 # Assignment4
 I completed three tests for the citibike data. 
 
-## I worked with      for the assignment2 and work individually for other assignments. 
+## I worked with Mengyun Li  for the assignment2 and work individually for other assignments. 

@@ -1,0 +1,148 @@
+GEO.id,GEO.id2,GEO.display-label,GCT_STUB.target-geo-id,GCT_STUB.target-geo-id2,GCT_STUB.display-label,GCT_STUB.display-label,HC01,HC02
+Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographic Area,Geographic Area,Percent,Margin of Error
+0400000US36,36,New York,0400000US36,36,New York,New York,81.7,0.2
+0400000US36,36,New York,7950000US3600100,3600100,New York - St. Lawrence County PUMA,St. Lawrence County PUMA,80.6,2.6
+0400000US36,36,New York,7950000US3600200,3600200,"New York - Clinton, Franklin, Essex & Hamilton Counties PUMA","Clinton, Franklin, Essex & Hamilton Counties PUMA",75.7,2.2
+0400000US36,36,New York,7950000US3600300,3600300,New York - Warren & Washington Counties PUMA,Warren & Washington Counties PUMA,79.8,2.6
+0400000US36,36,New York,7950000US3600401,3600401,New York - Herkimer (North & Central) & Oneida (Outer) Counties PUMA,Herkimer (North & Central) & Oneida (Outer) Counties PUMA,81.4,2.4
+0400000US36,36,New York,7950000US3600402,3600402,New York - Oneida County (Central)--Greater Utica & Rome Cities PUMA,Oneida County (Central)--Greater Utica & Rome Cities PUMA,78.2,2.3
+0400000US36,36,New York,7950000US3600403,3600403,"New York - Otsego, Schoharie, Oneida (South) & Herkimer (South) Counties PUMA","Otsego, Schoharie, Oneida (South) & Herkimer (South) Counties PUMA",76.6,2.2
+0400000US36,36,New York,7950000US3600500,3600500,New York - Jefferson & Lewis Counties PUMA,Jefferson & Lewis Counties PUMA,81.4,2.1
+0400000US36,36,New York,7950000US3600600,3600600,New York - Oswego County PUMA,Oswego County PUMA,84.4,2.3
+0400000US36,36,New York,7950000US3600701,3600701,New York - Onondaga County (Central)--Syracuse City PUMA,Onondaga County (Central)--Syracuse City PUMA,67.0,3.0
+0400000US36,36,New York,7950000US3600702,3600702,New York - Onondaga County (North) PUMA,Onondaga County (North) PUMA,84.0,2.7
+0400000US36,36,New York,7950000US3600703,3600703,New York - Onondaga County (Central)--Syracuse City (Outer) PUMA,Onondaga County (Central)--Syracuse City (Outer) PUMA,81.2,2.3
+0400000US36,36,New York,7950000US3600704,3600704,New York - Cayuga & Onondaga (South) Counties PUMA,Cayuga & Onondaga (South) Counties PUMA,79.4,2.6
+0400000US36,36,New York,7950000US3600800,3600800,New York - Wayne & Seneca Counties PUMA,Wayne & Seneca Counties PUMA,81.3,2.4
+0400000US36,36,New York,7950000US3600901,3600901,New York - Monroe County (East) PUMA,Monroe County (East) PUMA,86.9,2.0
+0400000US36,36,New York,7950000US3600902,3600902,New York - Monroe County (Central)--Rochester City (East) PUMA,Monroe County (Central)--Rochester City (East) PUMA,77.8,2.7
+0400000US36,36,New York,7950000US3600903,3600903,New York - Monroe County (Central)--Rochester City (West) PUMA,Monroe County (Central)--Rochester City (West) PUMA,72.4,3.1
+0400000US36,36,New York,7950000US3600904,3600904,New York - Monroe County (Central)--Greece & Gates Towns PUMA,Monroe County (Central)--Greece & Gates Towns PUMA,83.5,2.8
+0400000US36,36,New York,7950000US3600905,3600905,New York - Monroe County (North & West) PUMA,Monroe County (North & West) PUMA,88.5,2.4
+0400000US36,36,New York,7950000US3600906,3600906,New York - Monroe County (South) PUMA,Monroe County (South) PUMA,87.6,1.9
+0400000US36,36,New York,7950000US3601000,3601000,New York - Genesee & Orleans Counties PUMA,Genesee & Orleans Counties PUMA,78.0,2.8
+0400000US36,36,New York,7950000US3601101,3601101,New York - Niagara County (Southwest)--Greater Niagara Falls & North Tonawanda Area PUMA,Niagara County (Southwest)--Greater Niagara Falls & North Tonawanda Area PUMA,76.0,2.8
+0400000US36,36,New York,7950000US3601102,3601102,New York - Niagara County (North & East) PUMA,Niagara County (North & East) PUMA,78.2,3.0
+0400000US36,36,New York,7950000US3601201,3601201,New York - Erie County (Northwest) PUMA,Erie County (Northwest) PUMA,84.8,2.6
+0400000US36,36,New York,7950000US3601202,3601202,New York - Erie County (North Central) PUMA,Erie County (North Central) PUMA,86.7,2.3
+0400000US36,36,New York,7950000US3601203,3601203,New York - Erie County (Northeast) PUMA,Erie County (Northeast) PUMA,84.6,2.4
+0400000US36,36,New York,7950000US3601204,3601204,New York - Erie County (Central) PUMA,Erie County (Central) PUMA,79.6,2.4
+0400000US36,36,New York,7950000US3601205,3601205,New York - Erie County (West Central)--Buffalo City (East) PUMA,Erie County (West Central)--Buffalo City (East) PUMA,67.2,3.3
+0400000US36,36,New York,7950000US3601206,3601206,New York - Erie County (West Central)--Buffalo City (West) PUMA,Erie County (West Central)--Buffalo City (West) PUMA,78.7,2.7
+0400000US36,36,New York,7950000US3601207,3601207,New York - Erie County (South) PUMA,Erie County (South) PUMA,85.8,2.0
+0400000US36,36,New York,7950000US3601300,3601300,New York - Livingston & Wyoming Counties PUMA,Livingston & Wyoming Counties PUMA,80.4,2.5
+0400000US36,36,New York,7950000US3601400,3601400,New York - Ontario & Yates Counties PUMA,Ontario & Yates Counties PUMA,82.1,1.8
+0400000US36,36,New York,7950000US3601500,3601500,New York - Madison & Cortland Counties PUMA,Madison & Cortland Counties PUMA,75.8,2.8
+0400000US36,36,New York,7950000US3601600,3601600,New York - Fulton & Montgomery Counties PUMA,Fulton & Montgomery Counties PUMA,76.9,3.1
+0400000US36,36,New York,7950000US3601700,3601700,New York - Schenectady County--Schenectady City PUMA,Schenectady County--Schenectady City PUMA,85.2,2.0
+0400000US36,36,New York,7950000US3601801,3601801,New York - Saratoga County (South & Central) PUMA,Saratoga County (South & Central) PUMA,90.8,2.3
+0400000US36,36,New York,7950000US3601802,3601802,New York - Saratoga County (Outer) PUMA,Saratoga County (Outer) PUMA,84.5,2.4
+0400000US36,36,New York,7950000US3601900,3601900,New York - Rensselaer County--Troy City PUMA,Rensselaer County--Troy City PUMA,84.6,2.0
+0400000US36,36,New York,7950000US3602001,3602001,New York - Albany County (East Central)--Albany City PUMA,Albany County (East Central)--Albany City PUMA,83.0,3.3
+0400000US36,36,New York,7950000US3602002,3602002,New York - Albany County (Outside Albany City) PUMA,Albany County (Outside Albany City) PUMA,84.2,1.9
+0400000US36,36,New York,7950000US3602100,3602100,New York - Columbia & Greene Counties PUMA,Columbia & Greene Counties PUMA,75.3,2.9
+0400000US36,36,New York,7950000US3602201,3602201,New York - Broome County (West Central)--Greater Binghamton City & Greater Johnson City Village PUMA,Broome County (West Central)--Greater Binghamton City & Greater Johnson City Village PUMA,79.5,2.9
+0400000US36,36,New York,7950000US3602202,3602202,New York - Broome (Outer West) & Tioga Counties PUMA,Broome (Outer West) & Tioga Counties PUMA,84.9,2.2
+0400000US36,36,New York,7950000US3602203,3602203,"New York - Chenango, Delaware & Broome (East) Counties PUMA","Chenango, Delaware & Broome (East) Counties PUMA",76.7,2.4
+0400000US36,36,New York,7950000US3602300,3602300,New York - Tompkins County PUMA,Tompkins County PUMA,87.7,2.6
+0400000US36,36,New York,7950000US3602401,3602401,New York - Chemung (South) & Steuben (East) Counties--Greater Elmira & Greater Corning Cities PUMA,Chemung (South) & Steuben (East) Counties--Greater Elmira & Greater Corning Cities PUMA,78.4,3.1
+0400000US36,36,New York,7950000US3602402,3602402,"New York - Steuben (North & West), Schuyler & Chemung (North) Counties PUMA","Steuben (North & West), Schuyler & Chemung (North) Counties PUMA",80.1,2.3
+0400000US36,36,New York,7950000US3602500,3602500,New York - Cattaraugus & Allegany Counties PUMA,Cattaraugus & Allegany Counties PUMA,73.6,2.2
+0400000US36,36,New York,7950000US3602600,3602600,New York - Chautauqua County PUMA,Chautauqua County PUMA,74.6,2.4
+0400000US36,36,New York,7950000US3602701,3602701,New York - Sullivan & Ulster (West) Counties PUMA,Sullivan & Ulster (West) Counties PUMA,80.4,3.5
+0400000US36,36,New York,7950000US3602702,3602702,New York - Ulster County (East) PUMA,Ulster County (East) PUMA,85.9,2.3
+0400000US36,36,New York,7950000US3602801,3602801,New York - Dutchess County (North & East) PUMA,Dutchess County (North & East) PUMA,88.1,2.2
+0400000US36,36,New York,7950000US3602802,3602802,New York - Dutchess County (Southwest) PUMA,Dutchess County (Southwest) PUMA,87.5,2.2
+0400000US36,36,New York,7950000US3602901,3602901,New York - Orange County (Northeast)--Greater Newburgh City PUMA,Orange County (Northeast)--Greater Newburgh City PUMA,79.0,3.1
+0400000US36,36,New York,7950000US3602902,3602902,New York - Orange County (Northwest) PUMA,Orange County (Northwest) PUMA,73.9,3.6
+0400000US36,36,New York,7950000US3602903,3602903,New York - Orange County (Southeast) PUMA,Orange County (Southeast) PUMA,79.2,3.2
+0400000US36,36,New York,7950000US3603001,3603001,New York - Rockland County (North)--New City & Congers PUMA,Rockland County (North)--New City & Congers PUMA,88.8,2.9
+0400000US36,36,New York,7950000US3603002,3603002,"New York - Rockland County (South)--Orangetown, Clarkstown (South) & Ramapo (Southeast) Towns PUMA","Rockland County (South)--Orangetown, Clarkstown (South) & Ramapo (Southeast) Towns PUMA",83.9,3.2
+0400000US36,36,New York,7950000US3603003,3603003,"New York - Rockland County (West)--Spring Valley, Suffern Villages & Monsey PUMA","Rockland County (West)--Spring Valley, Suffern Villages & Monsey PUMA",61.8,3.9
+0400000US36,36,New York,7950000US3603101,3603101,New York - Putnam County PUMA,Putnam County PUMA,93.4,1.7
+0400000US36,36,New York,7950000US3603102,3603102,New York - Westchester County (Northwest) PUMA,Westchester County (Northwest) PUMA,85.5,2.3
+0400000US36,36,New York,7950000US3603103,3603103,New York - Westchester County (Northeast) PUMA,Westchester County (Northeast) PUMA,90.1,2.6
+0400000US36,36,New York,7950000US3603104,3603104,New York - Westchester County (Southeast) PUMA,Westchester County (Southeast) PUMA,88.9,2.5
+0400000US36,36,New York,7950000US3603105,3603105,New York - Westchester County (Central)--White Plains City PUMA,Westchester County (Central)--White Plains City PUMA,92.3,1.6
+0400000US36,36,New York,7950000US3603106,3603106,New York - Westchester County (Southwest)--Yonkers City PUMA,Westchester County (Southwest)--Yonkers City PUMA,80.1,2.4
+0400000US36,36,New York,7950000US3603107,3603107,New York - Westchester County (South Central)--New Rochelle & Mount Vernon Cities PUMA,Westchester County (South Central)--New Rochelle & Mount Vernon Cities PUMA,81.7,2.2
+0400000US36,36,New York,7950000US3603201,3603201,New York - Nassau County (Northwest)--North Hempstead Town (North) PUMA,Nassau County (Northwest)--North Hempstead Town (North) PUMA,93.1,1.8
+0400000US36,36,New York,7950000US3603202,3603202,New York - Nassau County (Northeast)--Oyster Bay Town (North) & Glen Cove City PUMA,Nassau County (Northeast)--Oyster Bay Town (North) & Glen Cove City PUMA,91.6,2.5
+0400000US36,36,New York,7950000US3603203,3603203,New York - Nassau County (East Central)--Oyster Bay Town (Central) PUMA,Nassau County (East Central)--Oyster Bay Town (Central) PUMA,91.5,2.3
+0400000US36,36,New York,7950000US3603204,3603204,New York - Nassau County (West Central)--North Hempstead Town (South) PUMA,Nassau County (West Central)--North Hempstead Town (South) PUMA,89.6,2.1
+0400000US36,36,New York,7950000US3603205,3603205,New York - Nassau County (West Central)--Hempstead Town (Northwest) PUMA,Nassau County (West Central)--Hempstead Town (Northwest) PUMA,90.5,2.8
+0400000US36,36,New York,7950000US3603206,3603206,New York - Nassau County (Central)--Hempstead Town (North Central)--Meadowbrook Corridor PUMA,Nassau County (Central)--Hempstead Town (North Central)--Meadowbrook Corridor PUMA,85.3,2.7
+0400000US36,36,New York,7950000US3603207,3603207,New York - Nassau County (Central)--Hempstead Town (Northeast) PUMA,Nassau County (Central)--Hempstead Town (Northeast) PUMA,89.4,2.2
+0400000US36,36,New York,7950000US3603208,3603208,New York - Nassau County (Southeast)--Oyster Bay Town (South) PUMA,Nassau County (Southeast)--Oyster Bay Town (South) PUMA,92.2,1.8
+0400000US36,36,New York,7950000US3603209,3603209,New York - Nassau County (Central)--Hempstead Town (East Central) PUMA,Nassau County (Central)--Hempstead Town (East Central) PUMA,91.1,2.4
+0400000US36,36,New York,7950000US3603210,3603210,New York - Nassau County (South Central)--Hempstead Town (Southeast) PUMA,Nassau County (South Central)--Hempstead Town (Southeast) PUMA,90.9,2.6
+0400000US36,36,New York,7950000US3603211,3603211,New York - Nassau County (West Central)--Hempstead Town (West Central) PUMA,Nassau County (West Central)--Hempstead Town (West Central) PUMA,88.8,2.8
+0400000US36,36,New York,7950000US3603212,3603212,New York - Nassau County (Southwest)--Hempstead Town (Southwest) & Long Beach City PUMA,Nassau County (Southwest)--Hempstead Town (Southwest) & Long Beach City PUMA,87.3,2.6
+0400000US36,36,New York,7950000US3603301,3603301,New York - Suffolk County (Northwest)--Huntington Town (North) PUMA,Suffolk County (Northwest)--Huntington Town (North) PUMA,92.0,2.1
+0400000US36,36,New York,7950000US3603302,3603302,New York - Suffolk County (Northwest)--Huntington Town (South) PUMA,Suffolk County (Northwest)--Huntington Town (South) PUMA,91.0,2.3
+0400000US36,36,New York,7950000US3603303,3603303,New York - Suffolk County (Northwest)--Smithtown Town PUMA,Suffolk County (Northwest)--Smithtown Town PUMA,87.3,3.1
+0400000US36,36,New York,7950000US3603304,3603304,New York - Suffolk County (North Central)--Brookhaven Town (North) PUMA,Suffolk County (North Central)--Brookhaven Town (North) PUMA,90.8,2.0
+0400000US36,36,New York,7950000US3603305,3603305,New York - Suffolk County (East) PUMA,Suffolk County (East) PUMA,75.3,3.4
+0400000US36,36,New York,7950000US3603306,3603306,New York - Suffolk County (South Central)--Brookhaven Town (South) PUMA,Suffolk County (South Central)--Brookhaven Town (South) PUMA,85.4,3.4
+0400000US36,36,New York,7950000US3603307,3603307,New York - Suffolk County (Central)--Brookhaven Town (Central) PUMA,Suffolk County (Central)--Brookhaven Town (Central) PUMA,85.1,3.1
+0400000US36,36,New York,7950000US3603308,3603308,New York - Suffolk County (Central)--Brookhaven Town (West Central) PUMA,Suffolk County (Central)--Brookhaven Town (West Central) PUMA,89.2,2.2
+0400000US36,36,New York,7950000US3603309,3603309,New York - Suffolk County (Central)--Islip Town (East) PUMA,Suffolk County (Central)--Islip Town (East) PUMA,89.9,2.6
+0400000US36,36,New York,7950000US3603310,3603310,New York - Suffolk County (Central)--Islip Town (Northwest) PUMA,Suffolk County (Central)--Islip Town (Northwest) PUMA,80.4,3.4
+0400000US36,36,New York,7950000US3603311,3603311,New York - Suffolk County (Southwest)--Islip Town (South) PUMA,Suffolk County (Southwest)--Islip Town (South) PUMA,90.9,2.7
+0400000US36,36,New York,7950000US3603312,3603312,New York - Suffolk County (Southwest)--Babylon Town (Southeast) PUMA,Suffolk County (Southwest)--Babylon Town (Southeast) PUMA,88.6,2.6
+0400000US36,36,New York,7950000US3603313,3603313,New York - Suffolk County (West Central)--Babylon Town (Northwest) PUMA,Suffolk County (West Central)--Babylon Town (Northwest) PUMA,83.7,3.5
+0400000US36,36,New York,7950000US3603701,3603701,"New York - NYC-Bronx Community District 8--Riverdale, Fieldston & Kingsbridge PUMA","NYC-Bronx Community District 8--Riverdale, Fieldston & Kingsbridge PUMA",84.3,2.6
+0400000US36,36,New York,7950000US3603702,3603702,"New York - NYC-Bronx Community District 12--Wakefield, Williamsbridge & Woodlawn PUMA","NYC-Bronx Community District 12--Wakefield, Williamsbridge & Woodlawn PUMA",68.3,3.7
+0400000US36,36,New York,7950000US3603703,3603703,"New York - NYC-Bronx Community District 10--Co-op City, Pelham Bay & Schuylerville PUMA","NYC-Bronx Community District 10--Co-op City, Pelham Bay & Schuylerville PUMA",82.8,3.2
+0400000US36,36,New York,7950000US3603704,3603704,"New York - NYC-Bronx Community District 11--Pelham Parkway, Morris Park & Laconia PUMA","NYC-Bronx Community District 11--Pelham Parkway, Morris Park & Laconia PUMA",72.6,3.6
+0400000US36,36,New York,7950000US3603705,3603705,"New York - NYC-Bronx Community District 3 & 6--Belmont, Crotona Park East & East Tremont PUMA","NYC-Bronx Community District 3 & 6--Belmont, Crotona Park East & East Tremont PUMA",69.4,3.2
+0400000US36,36,New York,7950000US3603706,3603706,"New York - NYC-Bronx Community District 7--Bedford Park, Fordham North & Norwood PUMA","NYC-Bronx Community District 7--Bedford Park, Fordham North & Norwood PUMA",74.7,3.6
+0400000US36,36,New York,7950000US3603707,3603707,"New York - NYC-Bronx Community District 5--Morris Heights, Fordham South & Mount Hope PUMA","NYC-Bronx Community District 5--Morris Heights, Fordham South & Mount Hope PUMA",70.6,3.5
+0400000US36,36,New York,7950000US3603708,3603708,"New York - NYC-Bronx Community District 4--Concourse, Highbridge & Mount Eden PUMA","NYC-Bronx Community District 4--Concourse, Highbridge & Mount Eden PUMA",71.3,3.9
+0400000US36,36,New York,7950000US3603709,3603709,"New York - NYC-Bronx Community District 9--Castle Hill, Clason Point & Parkchester PUMA","NYC-Bronx Community District 9--Castle Hill, Clason Point & Parkchester PUMA",77.6,2.8
+0400000US36,36,New York,7950000US3603710,3603710,"New York - NYC-Bronx Community District 1 & 2--Hunts Point, Longwood & Melrose PUMA","NYC-Bronx Community District 1 & 2--Hunts Point, Longwood & Melrose PUMA",67.1,3.5
+0400000US36,36,New York,7950000US3603801,3603801,"New York - NYC-Manhattan Community District 12--Washington Heights, Inwood & Marble Hill PUMA","NYC-Manhattan Community District 12--Washington Heights, Inwood & Marble Hill PUMA",80.1,2.9
+0400000US36,36,New York,7950000US3603802,3603802,"New York - NYC-Manhattan Community District 9--Hamilton Heights, Manhattanville & West Harlem PUMA","NYC-Manhattan Community District 9--Hamilton Heights, Manhattanville & West Harlem PUMA",80.2,3.9
+0400000US36,36,New York,7950000US3603803,3603803,New York - NYC-Manhattan Community District 10--Central Harlem PUMA,NYC-Manhattan Community District 10--Central Harlem PUMA,78.4,3.4
+0400000US36,36,New York,7950000US3603804,3603804,New York - NYC-Manhattan Community District 11--East Harlem PUMA,NYC-Manhattan Community District 11--East Harlem PUMA,75.2,3.5
+0400000US36,36,New York,7950000US3603805,3603805,New York - NYC-Manhattan Community District 8--Upper East Side PUMA,NYC-Manhattan Community District 8--Upper East Side PUMA,91.9,1.9
+0400000US36,36,New York,7950000US3603806,3603806,New York - NYC-Manhattan Community District 7--Upper West Side & West Side PUMA,NYC-Manhattan Community District 7--Upper West Side & West Side PUMA,90.0,2.0
+0400000US36,36,New York,7950000US3603807,3603807,"New York - NYC-Manhattan Community District 4 & 5--Chelsea, Clinton & Midtown Business District PUMA","NYC-Manhattan Community District 4 & 5--Chelsea, Clinton & Midtown Business District PUMA",90.7,2.3
+0400000US36,36,New York,7950000US3603808,3603808,"New York - NYC-Manhattan Community District 6--Murray Hill, Gramercy & Stuyvesant Town PUMA","NYC-Manhattan Community District 6--Murray Hill, Gramercy & Stuyvesant Town PUMA",89.3,3.2
+0400000US36,36,New York,7950000US3603809,3603809,New York - NYC-Manhattan Community District 3--Chinatown & Lower East Side PUMA,NYC-Manhattan Community District 3--Chinatown & Lower East Side PUMA,54.9,3.6
+0400000US36,36,New York,7950000US3603810,3603810,"New York - NYC-Manhattan Community District 1 & 2--Battery Park City, Greenwich Village & Soho PUMA","NYC-Manhattan Community District 1 & 2--Battery Park City, Greenwich Village & Soho PUMA",93.0,1.7
+0400000US36,36,New York,7950000US3603901,3603901,"New York - NYC-Staten Island Community District 3--Tottenville, Great Kills & Annadale PUMA","NYC-Staten Island Community District 3--Tottenville, Great Kills & Annadale PUMA",84.9,2.6
+0400000US36,36,New York,7950000US3603902,3603902,New York - NYC-Staten Island Community District 2--New Springville & South Beach PUMA,NYC-Staten Island Community District 2--New Springville & South Beach PUMA,80.1,3.4
+0400000US36,36,New York,7950000US3603903,3603903,"New York - NYC-Staten Island Community District 1--Port Richmond, Stapleton & Mariner's Harbor PUMA","NYC-Staten Island Community District 1--Port Richmond, Stapleton & Mariner's Harbor PUMA",73.0,3.3
+0400000US36,36,New York,7950000US3604001,3604001,New York - NYC-Brooklyn Community District 1--Greenpoint & Williamsburg PUMA,NYC-Brooklyn Community District 1--Greenpoint & Williamsburg PUMA,70.6,2.8
+0400000US36,36,New York,7950000US3604002,3604002,New York - NYC-Brooklyn Community District 4--Bushwick PUMA,NYC-Brooklyn Community District 4--Bushwick PUMA,72.6,2.9
+0400000US36,36,New York,7950000US3604003,3604003,New York - NYC-Brooklyn Community District 3--Bedford-Stuyvesant PUMA,NYC-Brooklyn Community District 3--Bedford-Stuyvesant PUMA,75.9,2.3
+0400000US36,36,New York,7950000US3604004,3604004,New York - NYC-Brooklyn Community District 2--Brooklyn Heights & Fort Greene PUMA,NYC-Brooklyn Community District 2--Brooklyn Heights & Fort Greene PUMA,85.5,1.9
+0400000US36,36,New York,7950000US3604005,3604005,"New York - NYC-Brooklyn Community District 6--Park Slope, Carroll Gardens & Red Hook PUMA","NYC-Brooklyn Community District 6--Park Slope, Carroll Gardens & Red Hook PUMA",89.4,2.4
+0400000US36,36,New York,7950000US3604006,3604006,New York - NYC-Brooklyn Community District 8--Crown Heights North & Prospect Heights PUMA,NYC-Brooklyn Community District 8--Crown Heights North & Prospect Heights PUMA,80.6,2.8
+0400000US36,36,New York,7950000US3604007,3604007,New York - NYC-Brooklyn Community District 16--Brownsville & Ocean Hill PUMA,NYC-Brooklyn Community District 16--Brownsville & Ocean Hill PUMA,70.7,3.7
+0400000US36,36,New York,7950000US3604008,3604008,New York - NYC-Brooklyn Community District 5--East New York & Starrett City PUMA,NYC-Brooklyn Community District 5--East New York & Starrett City PUMA,77.0,2.9
+0400000US36,36,New York,7950000US3604009,3604009,New York - NYC-Brooklyn Community District 18--Canarsie & Flatlands PUMA,NYC-Brooklyn Community District 18--Canarsie & Flatlands PUMA,87.7,1.9
+0400000US36,36,New York,7950000US3604010,3604010,"New York - NYC-Brooklyn Community District 17--East Flatbush, Farragut & Rugby PUMA","NYC-Brooklyn Community District 17--East Flatbush, Farragut & Rugby PUMA",78.4,3.1
+0400000US36,36,New York,7950000US3604011,3604011,"New York - NYC-Brooklyn Community District 9--Crown Heights South, Prospect Lefferts & Wingate PUMA","NYC-Brooklyn Community District 9--Crown Heights South, Prospect Lefferts & Wingate PUMA",74.8,3.5
+0400000US36,36,New York,7950000US3604012,3604012,New York - NYC-Brooklyn Community District 7--Sunset Park & Windsor Terrace PUMA,NYC-Brooklyn Community District 7--Sunset Park & Windsor Terrace PUMA,77.0,3.3
+0400000US36,36,New York,7950000US3604013,3604013,New York - NYC-Brooklyn Community District 10--Bay Ridge & Dyker Heights PUMA,NYC-Brooklyn Community District 10--Bay Ridge & Dyker Heights PUMA,87.5,2.2
+0400000US36,36,New York,7950000US3604014,3604014,"New York - NYC-Brooklyn Community District 12--Borough Park, Kensington & Ocean Parkway PUMA","NYC-Brooklyn Community District 12--Borough Park, Kensington & Ocean Parkway PUMA",66.1,2.9
+0400000US36,36,New York,7950000US3604015,3604015,New York - NYC-Brooklyn Community District 14--Flatbush & Midwood PUMA,NYC-Brooklyn Community District 14--Flatbush & Midwood PUMA,78.8,2.9
+0400000US36,36,New York,7950000US3604016,3604016,"New York - NYC-Brooklyn Community District 15--Sheepshead Bay, Gerritsen Beach & Homecrest PUMA","NYC-Brooklyn Community District 15--Sheepshead Bay, Gerritsen Beach & Homecrest PUMA",85.2,1.9
+0400000US36,36,New York,7950000US3604017,3604017,New York - NYC-Brooklyn Community District 11--Bensonhurst & Bath Beach PUMA,NYC-Brooklyn Community District 11--Bensonhurst & Bath Beach PUMA,83.5,2.0
+0400000US36,36,New York,7950000US3604018,3604018,New York - NYC-Brooklyn Community District 13--Brighton Beach & Coney Island PUMA,NYC-Brooklyn Community District 13--Brighton Beach & Coney Island PUMA,79.3,2.4
+0400000US36,36,New York,7950000US3604101,3604101,New York - NYC-Queens Community District 1--Astoria & Long Island City PUMA,NYC-Queens Community District 1--Astoria & Long Island City PUMA,83.5,2.0
+0400000US36,36,New York,7950000US3604102,3604102,New York - NYC-Queens Community District 3--Jackson Heights & North Corona PUMA,NYC-Queens Community District 3--Jackson Heights & North Corona PUMA,79.0,3.5
+0400000US36,36,New York,7950000US3604103,3604103,"New York - NYC-Queens Community District 7--Flushing, Murray Hill & Whitestone PUMA","NYC-Queens Community District 7--Flushing, Murray Hill & Whitestone PUMA",73.3,2.4
+0400000US36,36,New York,7950000US3604104,3604104,"New York - NYC-Queens Community District 11--Bayside, Douglaston & Little Neck PUMA","NYC-Queens Community District 11--Bayside, Douglaston & Little Neck PUMA",86.9,2.4
+0400000US36,36,New York,7950000US3604105,3604105,"New York - NYC-Queens Community District 13--Queens Village, Cambria Heights & Rosedale PUMA","NYC-Queens Community District 13--Queens Village, Cambria Heights & Rosedale PUMA",86.5,2.0
+0400000US36,36,New York,7950000US3604106,3604106,"New York - NYC-Queens Community District 8--Briarwood, Fresh Meadows & Hillcrest PUMA","NYC-Queens Community District 8--Briarwood, Fresh Meadows & Hillcrest PUMA",84.7,2.9
+0400000US36,36,New York,7950000US3604107,3604107,New York - NYC-Queens Community District 4--Elmhurst & South Corona PUMA,NYC-Queens Community District 4--Elmhurst & South Corona PUMA,78.3,3.9
+0400000US36,36,New York,7950000US3604108,3604108,New York - NYC-Queens Community District 6--Forest Hills & Rego Park PUMA,NYC-Queens Community District 6--Forest Hills & Rego Park PUMA,85.5,2.7
+0400000US36,36,New York,7950000US3604109,3604109,New York - NYC-Queens Community District 2--Sunnyside & Woodside PUMA,NYC-Queens Community District 2--Sunnyside & Woodside PUMA,85.1,2.4
+0400000US36,36,New York,7950000US3604110,3604110,"New York - NYC-Queens Community District 5--Ridgewood, Glendale & Middle Village PUMA","NYC-Queens Community District 5--Ridgewood, Glendale & Middle Village PUMA",82.6,2.2
+0400000US36,36,New York,7950000US3604111,3604111,New York - NYC-Queens Community District 9--Richmond Hill & Woodhaven PUMA,NYC-Queens Community District 9--Richmond Hill & Woodhaven PUMA,83.8,2.3
+0400000US36,36,New York,7950000US3604112,3604112,"New York - NYC-Queens Community District 12--Jamaica, Hollis & St. Albans PUMA","NYC-Queens Community District 12--Jamaica, Hollis & St. Albans PUMA",76.8,2.0
+0400000US36,36,New York,7950000US3604113,3604113,New York - NYC-Queens Community District 10--Howard Beach & Ozone Park PUMA,NYC-Queens Community District 10--Howard Beach & Ozone Park PUMA,85.5,2.8
+0400000US36,36,New York,7950000US3604114,3604114,"New York - NYC-Queens Community District 14--Far Rockaway, Breezy Point & Broad Channel PUMA","NYC-Queens Community District 14--Far Rockaway, Breezy Point & Broad Channel PUMA",77.8,3.6

@@ -5,4 +5,4 @@
 ## The number of vehicle collisions happened in Lower Manhattan and Brooklyn downtown are larger than other areas.
 
 # Assignment2:
-## I finished my citibike project by myself. Here is the paper link: 
+## I finished my citibike project by myself. Here is the paper link: https://www.authorea.com/users/249440/articles/335598-hw8_2_jz3309_citibike-study
